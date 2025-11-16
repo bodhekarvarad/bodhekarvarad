@@ -19,18 +19,18 @@ I love building real-world solutions, data-driven models, and scalable apps.
 
 ### 🎓 **Bachelor of Engineering (B.E.) — Computer Science & Engineering**  
 **Sipna College of Engineering & Technology, Amravati**  
-📅 *2023 – 2027*
+📅 *2024 – 2027*
 
 ---
 
 ### 🎓 **Diploma in Computer Science**  
 **Government Polytechnic Khamgoan**  
-📅 *2020 – 2023*
+📅 *2021 – 2024*
 
 ---
 
 ### 🎒 **Schooling — Adarsh Vidyalaya Chikhli**  
-📅 *Until 2020*  
+📅 *Until 2021*  
 
 ---
 
