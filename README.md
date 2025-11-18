@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2400&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&height=45&lines=Hi,+I'm+Varad+Bodhekar+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Android+%26+Web+Developer;B.E.+CSE+Student+%7C+Cloud+Learner" alt="Typing SVG">
 </p>
@@ -7,60 +6,60 @@
 
 ## 🔥 About Me
 I’m an enthusiastic developer exploring **Artificial Intelligence**, **Machine Learning**, and **Android/Web Development**.  
-I love building real-world solutions, data-driven models, and scalable apps.
+I enjoy building real-world solutions, intelligent systems, and scalable applications.
 
-- 🌱 Currently learning **AI/ML**, **Data Analysis**, and **Cloud Technologies**  
-- 💻 Experience: **Mobile Apps**, **Web Apps**, **ML Projects**  
-- 🎯 Goal: Become a proficient **Machine Learning Engineer**  
+- 🌱 Currently learning **AI/ML**, **Data Analysis**, and **Cloud Technologies**
+- 💻 Experience in **Mobile Apps**, **Web Apps**, and **ML Projects**
+- 🎯 Goal: Become a skilled **Machine Learning Engineer**
 
 ---
 
-## 🎓 Education Journey
+## 🎓 Education
 
-### 🎓 **Bachelor of Engineering (B.E.) — Computer Science & Engineering**  
-**Sipna College of Engineering & Technology, Amravati**  
+### **Bachelor of Engineering (B.E.) — Computer Science & Engineering**  
+📍 *Sipna College of Engineering & Technology, Amravati*  
 📅 *2024 – 2027*
 
 ---
 
-### 🎓 **Diploma in Computer Science**  
-**Government Polytechnic Khamgoan**  
+### **Diploma in Computer Science**  
+📍 *Government Polytechnic Khamgaon*  
 📅 *2021 – 2024*
 
 ---
 
-### 🎒 **Schooling — Adarsh Vidyalaya Chikhli**  
-📅 *Until 2021*  
+### **Schooling**  
+📍 *Adarsh Vidyalaya, Chikhli*  
+📅 *Until 2021*
 
 ---
 
 ## 👨‍💻 Internship Experience
 
 ### 💼 **Software Development Intern**  
-**Microspectra Software Technologies Pvt. Ltd.**  
-📍 India · 🕒 Apr 2023 – May 2023 (2 months)  
-🧑‍💻 On-site internship  
+**Microspectra Software Technologies Pvt. Ltd.** — *On-site*  
+📅 *Apr 2023 – May 2023 (2 months)*  
 
 **Key Contributions:**  
-- Built and tested modules for real-world software applications  
+- Developed and tested modules for live software applications  
 - Improved understanding of **frontend + backend** workflows  
 - Collaborated with teams to deliver project components  
 
 ---
 
-## 🛠️ Skills & Technologies (Dashboard)
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
 | Category | Skills |
 |---------|--------|
-| **Programming Languages** | `Python` `Java` `C` `C++` `JavaScript` `Node.js` |
-| **AI / ML** | `AI` `Machine Learning` `Data Cleaning` `Data Analysis` `Data Visualization` `NumPy` `Pandas` `Matplotlib` `Google Colab` `Jupyter Notebook` `Anaconda` |
-| **Cloud & MLOps** | `AWS SageMaker` `AWS Cloud Architecting` `AWS Cloud Foundations` |
-| **Mobile Development** | `Android Studio` `Java (Android)` `XML` `Firebase` `FlutterFlow` |
-| **Web Development** | `HTML5` `CSS` `JavaScript` `React.js` `PHP` |
-| **Databases** | `SQL` `PL/SQL` `Firebase DB` |
-| **Tools** | `Git` `GitHub` `Linux` `Shell Scripting` `VS Code` |
+| **Programming** | Python · Java · C · C++ · JavaScript · Node.js |
+| **AI / ML** | Machine Learning · Data Cleaning · Data Analysis · Data Visualization · NumPy · Pandas · Matplotlib · Google Colab · Jupyter Notebook · Anaconda |
+| **Cloud / MLOps** | AWS SageMaker · AWS Cloud Architecting · AWS Cloud Foundations |
+| **Mobile Development** | Android Studio · Java (Android) · XML · Firebase · FlutterFlow |
+| **Web Development** | HTML5 · CSS · JavaScript · React.js · PHP |
+| **Databases** | SQL · PL/SQL · Firebase DB |
+| **Tools** | Git · GitHub · Linux · Shell Scripting · VS Code |
 
 </div>
 
@@ -71,36 +70,35 @@ I love building real-world solutions, data-driven models, and scalable apps.
 - **Artificial Intelligence — Edunet Foundation** *(Aug 2025)*  
 - **Edunet Green Skill and Artificial Intelligence**  
 - **AWS Academy Graduate — Machine Learning Foundations** *(Mar 2025)*  
-  https://www.credly.com/badges/4589feb2-8878-4afa-ab71-dd07bb110c28/linked_in_profile  
 - **AWS Academy Graduate — Cloud Architecting** *(Dec 2024)*  
-  https://www.credly.com/badges/0a8ff59e-b2e5-4a55-8427-e0c948578f2e/linked_in_profile  
 - **AWS Academy Graduate — Cloud Foundations** *(Dec 2024)*  
-  https://www.credly.com/badges/f4cb5c20-0f07-4da4-b529-6ebb8cd791fc/linked_in_profile  
+
+*(Credly links available on request or can be added as markdown buttons.)*
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔋 **Solar Power Output Prediction (ML)**
-ML model to forecast solar power output using regression algorithms.  
+Regression-based ML model to forecast solar power production.  
 📁 Repo: https://github.com/bodhekarvarad/solar-power-ml-predictor  
 
 ---
 
 ### 📱 **VitalNex – Student Needs Application**
-Mobile app providing essential utilities for students.
-📁 Repo: https://github.com/vaibhavdb14/Vitalnex
+Android application providing utility tools for students.  
+📁 Repo: https://github.com/vaibhavdb14/Vitalnex  
 
 ---
 
 ### 🧾 **Library Management System**
-Manages book inventory, users, and transactions.  
+Desktop-based system for managing library resources and transactions.  
 📁 Repo: https://github.com/bodhekarvarad/Library_Management_System  
 
 ---
 
-### 🕹️ **Bricks Breaker Game**
-Classic arcade-style Android game with scoring features.  
+### 🕹️ **Bricks Breaker – Android Game**
+Classic arcade-style game with scoring features.  
 📁 Repo: https://github.com/bodhekarvarad/Android_app_development_min_project_on_bricks_breaker  
 
 ---
@@ -115,10 +113,10 @@ Classic arcade-style Android game with scoring features.
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 📧 **Email:** bodhekarvarad2004@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/varad-bodhekar-050994279/  
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+<p align="center">⭐ If you like my work, don’t forget to star my repositories!</p>
