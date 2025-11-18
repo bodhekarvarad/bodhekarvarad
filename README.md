@@ -88,7 +88,8 @@ ML model to forecast solar power output using regression algorithms.
 ---
 
 ### 📱 **VitalNex – Student Needs Application**
-Mobile app providing essential utilities for students.  
+Mobile app providing essential utilities for students.
+📁 Repo: https://github.com/vaibhavdb14/Vitalnex
 
 ---
 
