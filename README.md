@@ -57,7 +57,7 @@ I enjoy building real-world solutions, intelligent systems, and scalable applica
 | **AI / ML** | Machine Learning · Data Cleaning · Data Analysis · Data Visualization · NumPy · Pandas · Matplotlib · Google Colab · Jupyter Notebook · Anaconda |
 | **Cloud / MLOps** | AWS SageMaker · AWS Cloud Architecting · AWS Cloud Foundations |
 | **Mobile Development** | Android Studio · Java (Android) · XML · Firebase · FlutterFlow |
-| **Web Development** | HTML5 · CSS · JavaScript · React.js · PHP |
+| **Web Development** | HTML5 · CSS · JavaScript · React.js · PHP · BootStrap|
 | **Databases** | SQL · PL/SQL · Firebase DB |
 | **Tools** | Git · GitHub · Linux · Shell Scripting · VS Code |
 
