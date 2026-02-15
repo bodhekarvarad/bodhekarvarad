@@ -104,13 +104,13 @@ Classic arcade-style game with scoring features.
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bodhekarvarad&show_icons=true&theme=radical&cache_seconds=86400" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodhekarvarad&layout=compact&theme=radical&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api?username=bodhekarvarad&show_icons=true&theme=radical" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodhekarvarad&theme=radical&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodhekarvarad&layout=compact&theme=radical" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bodhekarvarad&theme=radical" />
 
 </p>
 
