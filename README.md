@@ -118,42 +118,22 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Profile Summary
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bodhekarvarad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bodhekarvarad&theme=tokyonight&hide_border=false" height="170"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodhekarvarad&theme=github_dark" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodhekarvarad&theme=tokyonight&hide_border=false&layout=compact"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bodhekarvarad&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bodhekarvarad&theme=github_dark" />
 </p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Varad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bodhekarvarad&theme=tokyo-night)](https://github.com/bodhekarvarad)
-
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/bodhekarvarad/bodhekarvarad/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodhekarvarad&theme=github-dark" />
 </p>
 
 ---
