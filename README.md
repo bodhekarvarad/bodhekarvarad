@@ -11,8 +11,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 💫 About Me
 
 🎓 B.E. CSE Student passionate about building intelligent systems and scalable applications.
